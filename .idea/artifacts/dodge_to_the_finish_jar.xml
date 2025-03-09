@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dodge-to-the-finish:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dodge_to_the_finish_jar</output-path>
+    <root id="archive" name="dodge-to-the-finish.jar">
+      <element id="module-output" name="dodge-to-the-finish" />
+    </root>
+  </artifact>
+</component>
