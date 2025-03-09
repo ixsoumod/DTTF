@@ -1,0 +1,13 @@
+prefix: "&8[&6DTTF&8] &7"
+
+plugin-enabled: "&fPlugin activé"
+plugin-disabled: "&fPlugin désactivé"
+
+no-found-message: "&cAucun message trouvé"
+
+help:
+  title: "DTTF help"
+  1: "&7- &6/dttf start &7: &fStart the game"
+  2: "&7- &6/dttf stop &7: &fStop the game"
+
+no-console: "&cVous ne pouvez pas exécuter cette commande depuis la console"

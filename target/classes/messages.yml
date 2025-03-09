@@ -1,0 +1,10 @@
+prefix: "&8[&6DTTF&8] &7"
+
+plugin-enabled: "&fPlugin activé"
+plugin-disabled: "&fPlugin désactivé"
+
+no-found-message: "&fAucun message trouvé"
+
+help: "Aide"
+
+no-console: "Vous ne pouvez pas exécuter cette commande depuis la console"
